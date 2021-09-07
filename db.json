@@ -1,0 +1,94 @@
+{
+    "names": [
+        {
+          "id": "1",
+          "nama": "Fahmi Alamsyah",
+          "NPM": "201643501374",
+          "Telp": "08988052264"
+        },
+        {
+            "id": "2",
+          "nama": "Syndi Kartika Putri",
+          "NPM": "201643501382",
+          "Telp": "081380803350"
+        },
+        {
+            "id": "3",
+          "nama": "Rezal Firmansyah",
+          "NPM": "201643501402",
+          "Telp": "089696159912"
+        },
+        {
+            "id": "4",
+          "nama": "Feri Irawan",
+          "NPM": "201643501431",
+          "Telp": "08568887759"
+        },
+        {
+            "id": "5",
+          "nama": "Budi Hariyanto",
+          "NPM": "201643501459",
+          "Telp": "089616899094"
+        },
+        {
+            "id": "6",
+          "nama": "Linda Siti Chotijah",
+          "NPM": "201643501464",
+          "Telp": "08995009188"
+        },
+        {
+            "id": "7",
+          "nama": "Hana Pertiwi",
+          "NPM": "201643501467",
+          "Telp": "081288073133"
+        },
+        {
+            "id": "8",
+          "nama": "Lailul Huda Al Fauziah",
+          "NPM": "201643501476",
+          "Telp": "08119193796"
+        },
+        {
+            "id": "9",
+          "nama": "M. Lukman Hakim",
+          "NPM": "201643501479",
+          "Telp": "085782866499"
+        },
+        {
+            "id": "10",
+          "nama": "Fiterman Lase",
+          "NPM": "201643501488",
+          "Telp": "201643501488"
+        },
+        {
+            "id": "11",
+          "nama": "Ahmad Fadillah",
+          "NPM": "201643501531",
+          "Telp": "085710660014"
+        },
+        {
+            "id": "12",
+          "nama": "Deden Iskandar",
+          "NPM": "201643501534",
+          "Telp": "085776652248"
+        },
+        {
+            "id": "13",
+          "nama": "Muhammad Iqbal",
+          "NPM": "201643501553",
+          "Telp": "081212401889"
+        },
+        {
+            "id": "14",
+          "nama": "Aries Rahmanto",
+          "NPM": "201643501553",
+          "Telp": "085711884142"
+        },
+        {
+            "id": "15",
+          "nama": "Yunita Suhesti Novamila",
+          "NPM": "201643501577",
+          "Telp": "081280096321"
+        }
+      ]
+}

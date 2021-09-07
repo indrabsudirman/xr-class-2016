@@ -1,94 +1,317 @@
 {
-    "names": [
-        {
-          "id": "1",
-          "nama": "Fahmi Alamsyah",
-          "NPM": "201643501374",
-          "Telp": "08988052264"
-        },
-        {
-            "id": "2",
-          "nama": "Syndi Kartika Putri",
-          "NPM": "201643501382",
-          "Telp": "081380803350"
-        },
-        {
-            "id": "3",
-          "nama": "Rezal Firmansyah",
-          "NPM": "201643501402",
-          "Telp": "089696159912"
-        },
-        {
-            "id": "4",
-          "nama": "Feri Irawan",
-          "NPM": "201643501431",
-          "Telp": "08568887759"
-        },
-        {
-            "id": "5",
-          "nama": "Budi Hariyanto",
-          "NPM": "201643501459",
-          "Telp": "089616899094"
-        },
-        {
-            "id": "6",
-          "nama": "Linda Siti Chotijah",
-          "NPM": "201643501464",
-          "Telp": "08995009188"
-        },
-        {
-            "id": "7",
-          "nama": "Hana Pertiwi",
-          "NPM": "201643501467",
-          "Telp": "081288073133"
-        },
-        {
-            "id": "8",
-          "nama": "Lailul Huda Al Fauziah",
-          "NPM": "201643501476",
-          "Telp": "08119193796"
-        },
-        {
-            "id": "9",
-          "nama": "M. Lukman Hakim",
-          "NPM": "201643501479",
-          "Telp": "085782866499"
-        },
-        {
-            "id": "10",
-          "nama": "Fiterman Lase",
-          "NPM": "201643501488",
-          "Telp": "201643501488"
-        },
-        {
-            "id": "11",
-          "nama": "Ahmad Fadillah",
-          "NPM": "201643501531",
-          "Telp": "085710660014"
-        },
-        {
-            "id": "12",
-          "nama": "Deden Iskandar",
-          "NPM": "201643501534",
-          "Telp": "085776652248"
-        },
-        {
-            "id": "13",
-          "nama": "Muhammad Iqbal",
-          "NPM": "201643501553",
-          "Telp": "081212401889"
-        },
-        {
-            "id": "14",
-          "nama": "Aries Rahmanto",
-          "NPM": "201643501553",
-          "Telp": "085711884142"
-        },
-        {
-            "id": "15",
-          "nama": "Yunita Suhesti Novamila",
-          "NPM": "201643501577",
-          "Telp": "081280096321"
-        }
-      ]
+  "names": [
+    {
+      "id": "1",
+      "nama": "Fahmi Alamsyah",
+      "NPM": "201643501374",
+      "Telp": "08988052264",
+      "Alamat": "Kramat Jati",
+      "Status": "Single" 
+    },
+    {
+      "id": "2",
+      "nama": "Syndi Kartika Putri",
+      "NPM": "201643501382",
+      "Telp": "081380803350",
+      "Alamat": "Casablanca, Tebet",
+      "Status": "Double"
+    },
+    {
+      "id": "3",
+      "nama": "Rezal Firmansyah",
+      "NPM": "201643501402",
+      "Telp": "089696159912",
+      "Alamat": "Kramat Jati",
+      "Status": "Single"
+    },
+    {
+      "id": "4",
+      "nama": "Feri Irawan",
+      "NPM": "201643501431",
+      "Telp": "08568887759",
+      "Alamat": "Tapos, Bogor",
+      "Status": "Single"
+    },
+    {
+      "id": "5",
+      "nama": "Budi Hariyanto",
+      "NPM": "201643501459",
+      "Telp": "089616899094",
+      "Alamat": "Depok, Kali mulya",
+      "Status": "Single / Will Double"
+    },
+    {
+      "id": "6",
+      "nama": "Linda Siti Chotijah",
+      "NPM": "201643501464",
+      "Telp": "08995009188",
+      "Alamat": "Tanjung Priuk",
+      "Status": "Double"
+    },
+    {
+      "id": "7",
+      "nama": "Hana Pertiwi",
+      "NPM": "201643501467",
+      "Telp": "081288073133",
+      "Alamat": "Tanjung Priuk",
+      "Status": "Double"
+    },
+    {
+      "id": "8",
+      "nama": "Lailul Huda Al Fauziah",
+      "NPM": "201643501476",
+      "Telp": "08119193796",
+      "Alamat": "Cilangkap, Cipayung",
+      "Status": "Double"
+    },
+    {
+      "id": "9",
+      "nama": "M. Lukman Hakim",
+      "NPM": "201643501479",
+      "Telp": "085782866499",
+      "Alamat": "Bogor",
+      "Status": "Single (no update)"
+    },
+    {
+      "id": "10",
+      "nama": "Fiterman Lase",
+      "NPM": "201643501488",
+      "Telp": "null",
+      "Alamat": "Lebak bulus",
+      "Status": "Single (no update)"
+    },
+    {
+      "id": "11",
+      "nama": "Ahmad Fadillah",
+      "NPM": "201643501531",
+      "Telp": "085710660014",
+      "Alamat": "Pasar rebo",
+      "Status": "Single / Will Double"
+    },
+    {
+      "id": "12",
+      "nama": "Deden Iskandar",
+      "NPM": "201643501534",
+      "Telp": "085776652248",
+      "Alamat": "Bekasi, Jatiasih",
+      "Status": "Single (no update)"
+    },
+    {
+      "id": "13",
+      "nama": "Muhammad Iqbal",
+      "NPM": "201643501553",
+      "Telp": "081212401889",
+      "Alamat": "Bekasi / Tanjung Priuk",
+      "Status": "Single"
+    },
+    {
+      "id": "14",
+      "nama": "Aries Rahmanto",
+      "NPM": "201643501553",
+      "Telp": "085711884142",
+      "Alamat": "Cinere / Depok",
+      "Status": "Single"
+    },
+    {
+      "id": "15",
+      "nama": "Yunita Suhesti Novamila",
+      "NPM": "201643501577",
+      "Telp": "081280096321",
+      "Alamat": "Pondok Bambu, Kalimalang",
+      "Status": "Double"
+      
+    },
+    {
+      "id": "16",
+      "nama": "Setiyo Winarto",
+      "NPM": "201643501580",
+      "Telp": "087881360503",
+      "Alamat": "Tanjung Priuk",
+      "Status": "Double"
+    },
+    {
+      "id": "17",
+      "nama": "Mahfut Samiul Alim",
+      "NPM": "201643501593",
+      "Telp": "085770745512",
+      "Alamat": "Pondok labu",
+      "Status": "Single"
+    },
+    {
+      "id": "18",
+      "nama": "Pajri Ardiansyah",
+      "NPM": "201643501595",
+      "Telp": "089693803638",
+      "Alamat": "Jagakarsa",
+      "Status": "Just Double"
+    },
+    {
+      "id": "19",
+      "nama": "Henrico Stefanus Rares",
+      "NPM": "201643501601",
+      "Telp": "085780268087",
+      "Alamat": "Bekasi timur",
+      "Status": "Single"
+    },
+    {
+      "id": "20",
+      "nama": "Adih Ibrahim",
+      "NPM": "201643501608",
+      "Telp": "089513589615",
+      "Alamat": "Kebon Jeruk",
+      "Status": "Single / unknown"
+    },
+    {
+      "id": "21",
+      "nama": "Widaningsih",
+      "NPM": "201643501622",
+      "Telp": "089649937723",
+      "Alamat": "Pinangranti",
+      "Status": "Single"
+    },
+    {
+      "id": "22",
+      "nama": "Renaldiansyah",
+      "NPM": "201643501649",
+      "Telp": "089634742849",
+      "Alamat": "Citeureup, Bogor",
+      "Status": "Single (no update)"
+    },
+    {
+      "id": "23",
+      "nama": "Muhamad Reynaldi",
+      "NPM": "201643501660",
+      "Telp": "089670042160",
+      "Alamat": "Depok",
+      "Status": "Single (no update)"
+    },
+    {
+      "id": "24",
+      "nama": "Hilmi Muhamad Salim",
+      "NPM": "201643501672",
+      "Telp": "085691631163",
+      "Alamat": "Cilangkap, Cipayung",
+      "Status": "Single (no update)"
+    },
+    {
+      "id": "25",
+      "nama": "Gunawan Saputra",
+      "NPM": "201643501714",
+      "Telp": "089517954967",
+      "Alamat": "Depok",
+      "Status": "Single (no update)"
+    },
+    {
+      "id": "26",
+      "nama": "Mila Sari",
+      "NPM": "201643501726",
+      "Telp": "089689917088",
+      "Alamat": "Kp. Rambutan Ciracas",
+      "Status": "Double"
+    },
+    {
+      "id": "27",
+      "nama": "Indra Bayu Sudirman",
+      "NPM": "201643501734",
+      "Telp": "089636002345",
+      "Alamat": "Serpong Utara, Tangerang Selatan",
+      "Status": "Double"
+    },
+    {
+      "id": "28",
+      "nama": "Muhammad Hilman",
+      "NPM": "201643501743",
+      "Telp": "089638129306",
+      "Alamat": "Tambun, Bekasi",
+      "Status": "Single"
+    },
+    {
+      "id": "29",
+      "nama": "Dela Panji Yudistira",
+      "NPM": "201643501746",
+      "Telp": "085647711422",
+      "Alamat": "Purbalingga / Tangerang Selatan",
+      "Status": "Single / Will Double"
+    },
+    {
+      "id": "30",
+      "nama": "Okta Kartiko Dwi Winarno",
+      "NPM": "201643501769",
+      "Telp": "08811074670",
+      "Alamat": "Cibinong, Pemda",
+      "Status": "Single"
+    },
+    {
+      "id": "31",
+      "nama": "Imam Nawawi",
+      "NPM": "201643501770",
+      "Telp": "081703331713",
+      "Alamat": "Gunung Putri",
+      "Status": "Double"
+    },
+    {
+      "id": "32",
+      "nama": "Yoga Pratama",
+      "NPM": "201643501801",
+      "Telp": "089529100997",
+      "Alamat": "Bojong Gede",
+      "Status": "Single (no update)"
+    },
+    {
+      "id": "33",
+      "nama": "Abdul Ayub",
+      "NPM": "201643501818",
+      "Telp": "081908759223",
+      "Alamat": "Tambora",
+      "Status": "Double (no update)"
+    },
+    {
+      "id": "34",
+      "nama": "Septia Ardila",
+      "NPM": "201643501826",
+      "Telp": "085883163136",
+      "Alamat": "Bekasi",
+      "Status": "Single"
+    },
+    {
+      "id": "35",
+      "nama": "Muhamad Ali Musofi",
+      "NPM": "201643501836",
+      "Telp": "087830161618",
+      "Alamat": "Pal Merah / Tegal",
+      "Status": "Single"
+    },
+    {
+      "id": "36",
+      "nama": "Misan",
+      "NPM": "201643501837",
+      "Telp": "08961989790",
+      "Alamat": "Bekasi",
+      "Status": "Single (no update)"
+    },
+    {
+      "id": "37",
+      "nama": "Azhar Ibrahim",
+      "NPM": "201643501838",
+      "Telp": "085775592433",
+      "Alamat": "null",
+      "Status": "Single"
+    },
+    {
+      "id": "38",
+      "nama": "Bayu Adi Putra",
+      "NPM": "201643501844",
+      "Telp": "081281027187",
+      "Alamat": "null",
+      "Status": "Single"
+    },
+    {
+      "id": "39",
+      "nama": "Dhidhid Dwi Julianto",
+      "NPM": "201643501846",
+      "Telp": "082299695313",
+      "Alamat": "Cawang",
+      "Status": "Single"
+    }
+  ]
 }

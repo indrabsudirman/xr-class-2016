@@ -27,6 +27,7 @@
       "NPM": "201643501431",
       "Telp": "08568887759",
       "Alamat": "Tapos, Bogor"
+    },
     {
       "id": "5",
       "nama": "Budi Hariyanto",
@@ -209,69 +210,6 @@
       "NPM": "201643501769",
       "Telp": "08811074670",
       "Alamat": "Cibinong, Pemda"
-    },
-    {
-      "id": "31",
-      "nama": "Imam Nawawi",
-      "NPM": "201643501770",
-      "Telp": "081703331713",
-      "Alamat": "Gunung Putri"
-    },
-    {
-      "id": "32",
-      "nama": "Yoga Pratama",
-      "NPM": "201643501801",
-      "Telp": "089529100997",
-      "Alamat": "Bojong Gede"
-    },
-    {
-      "id": "33",
-      "nama": "Abdul Ayub",
-      "NPM": "201643501818",
-      "Telp": "081908759223",
-      "Alamat": "Tambora"
-    },
-    {
-      "id": "34",
-      "nama": "Septia Ardila",
-      "NPM": "201643501826",
-      "Telp": "085883163136",
-      "Alamat": "Bekasi"
-    },
-    {
-      "id": "35",
-      "nama": "Muhamad Ali Musofi",
-      "NPM": "201643501836",
-      "Telp": "087830161618",
-      "Alamat": "Pal Merah / Tegal"
-    },
-    {
-      "id": "36",
-      "nama": "Misan",
-      "NPM": "201643501837",
-      "Telp": "08961989790",
-      "Alamat": "Bekasi"
-    },
-    {
-      "id": "37",
-      "nama": "Azhar Ibrahim",
-      "NPM": "201643501838",
-      "Telp": "085775592433",
-      "Alamat": "null"
-    },
-    {
-      "id": "38",
-      "nama": "Bayu Adi Putra",
-      "NPM": "201643501844",
-      "Telp": "081281027187",
-      "Alamat": "null"
-    },
-    {
-      "id": "39",
-      "nama": "Dhidhid Dwi Julianto",
-      "NPM": "201643501846",
-      "Telp": "082299695313",
-      "Alamat": "Cawang"
     }
   ]
 }
